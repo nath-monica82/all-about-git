@@ -1,0 +1,78 @@
+<style type="text/css">
+
+
+/* general setting for all the tags in all of my recipe world pages*/
+html,body,h1,h2,h3,ul,ol,li,p,a
+{
+	padding:0;
+	border:0;
+	margin:0;
+}
+body
+{
+	background-color:lightblue;
+	padding:0px;
+	/*(background-image:url(./Images/GitBackgroundImg.jpg);*/
+	postion:top left;
+	background-repeat:repeat;
+	margin:0px auto;
+	font-family:Georgia,"times new roman";
+	font-size:100%;
+	font:inherit;
+}
+h2
+{
+	margin-top:10px;
+	margin-bottom:15px;
+	font-size:40px;
+        color:#034d4d;
+	text-align:center;
+	
+}
+h3
+{
+	margin-top:15px;
+	margin-bottom:15px;
+	border-bottom:1px solid #cccccc;
+	padding-bottom:3px;
+	font-size:30px;
+	color:#034d4d;
+}
+p
+{
+	font-size:20px;
+}
+a
+{
+	text-decoration:none;
+	color:darkblue;
+}
+a:hover
+{
+	color:darkred;
+}
+/*this is where the general settings end*/
+
+/* setting for heading and its elements.this heading "recipe world" is common for all the pages */
+.header
+{
+	
+	background-color:#b56663;
+	border:4px solid darkblue;
+	margin:0px;
+	padding:0px;
+	clear:left;
+
+	
+}
+
+.header img
+{
+        /*float:right;*/
+	margin:0px;
+	display:block; 
+}
+
+
+
+</style>
